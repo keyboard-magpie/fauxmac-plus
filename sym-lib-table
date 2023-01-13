@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "fauxmac-plus-rescue")(type "Legacy")(uri "${KIPRJMOD}/fauxmac-plus-rescue.lib")(options "")(descr ""))
+)
