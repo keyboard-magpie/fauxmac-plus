@@ -337,7 +337,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "fauxmac-plus.kicad_pro",
+    "filename": "fauxmac-plus-plate.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -371,7 +371,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "dxf/fauxmac-plus.STEP",
+      "step": "../../../tombarnes/Desktop/fauxmac-plus-plate.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
